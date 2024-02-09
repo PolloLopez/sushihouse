@@ -1,0 +1,34 @@
+/* FUENTES */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Shadows+Into+Light&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@100&family=Sen&display=swap');
+
+/* generales */
+
+html {
+    font-size: 62.5%;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+/* ENCABEZADO//HEADER */
+
+
+/* BODY */
+
+.hero {
+    background-image: url(../img/fotoo.jpg);
+    height: 90vh;
+}
+
+
+/* FOOTER */
